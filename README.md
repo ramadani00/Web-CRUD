@@ -17,7 +17,7 @@
 
 - Menu
   
-![img4](Website_CRUD/assets/images/datatable.png)
+![img4](Website_CRUD/assets/images/menu.png)
 <br>
 
 - Form Input
