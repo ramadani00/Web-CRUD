@@ -2,35 +2,35 @@
 
 - Home
   
-![img1](assets/img/home.png) 
+![img1](Website_CRUD/assets/images/home.png) 
 <br>
 
 - About
   
-![img2](assets/img/about.png)
+![img2](Website_CRUD/assets/images/about.png)
 <br>
 
 - Contact
   
-![img3](assets/img/contact.png)
+![img3](Website_CRUD/assets/images/contact.png)
 <br>
 
 - Menu
   
-![img4](assets/img/datatable.png)
+![img4](Website_CRUD/assets/images/datatable.png)
 <br>
 
 - Form Input
   
-![img5](assets/img/form.png)
+![img5](Website_CRUD/assets/images/form.png)
 <br>
-![img6](assets/img/form2.png)
+![img6](Website_CRUD/assets/images/form2.png)
 <br>
 
 - CRUD
   
-![img6](assets/img/crud.png)
+![img6](Website_CRUD/assets/images/crud.png)
 <br>
-![img7](assets/img/crud2.png)
+![img7](Website_CRUD/assets/images/crud2.png)
 <br>
 
